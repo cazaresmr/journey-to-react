@@ -86,14 +86,17 @@ console.log(evenNumbers); // Should output: [2, 4, 6]
 
 1. **JavaScript ES6 Topics for React.js:**
    - **Topics to Cover:**
+     - Classes
+     - Variables
      - let and const
-     - Arrow functions
+     - Arrow Functions
+     - Ternary Operator
      - Template literals
-     - Destructuring assignment
-     - Default parameters
-     - Spread and rest operators
-     - Array and object methods (like `map`, `filter`, `reduce`, `Object.assign`)
-     - Promises and async/await
+     - Destructuring
+     - Default Parameters
+     - Spread and Rest Operators
+     - Array and Object Methods (like `map`, `filter`, `reduce`, `Object.assign`, et al)
+     - Promises and Async/Await
      - Modules (import/export)
    - **Content Types:**
      - **Text:** Write clear explanations for each topic.
