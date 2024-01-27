@@ -3,7 +3,9 @@
 ## Powered by AI
 Hey there! Just a heads-up: most of the content you'll see here is crafted with a little help from my AI friend, ChatGPT. It's a super cool tool from OpenAI that helps me generate text, come up with ideas, and even code snippets. But don't worry, I make sure everything's double-checked and tailored to make learning as effective as possible for you. Think of ChatGPT as a smart assistant that's here to make our journey into React.js smoother and more fun!
 
-## I'm a retired math teacher diving into web dev and I'm building this cool website to help folks learn React.js. It's all about HTML, CSS, Bootstrap, and of course, JavaScript ES6. Think of it as a fun mix of lessons, videos, quizzes, and hands-on challenges. It's not just a learning tool, it's my own adventure into the world of coding. The plan is to keep it simple, make it super useful, and host it on Firebase. It's gonna be a great way to break down tech concepts into bite-sized, easy-to-get pieces. Let's demystify coding together!
+<hr>
+
+I'm a retired math teacher diving into web dev and I'm building this cool website to help folks learn React.js. It's all about HTML, CSS, Bootstrap, and of course, JavaScript ES6. Think of it as a fun mix of lessons, videos, quizzes, and hands-on challenges. It's not just a learning tool, it's my own adventure into the world of coding. The plan is to keep it simple, make it super useful, and host it on Firebase. It's gonna be a great way to break down tech concepts into bite-sized, easy-to-get pieces. Let's demystify coding together!
 
 <hr>
 Here is an example to what the content might look like:
